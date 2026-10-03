@@ -9,5 +9,5 @@ package com.mycompany.crudproductos;
  * @author PC-04
  */
 public class oscar {
-    
+    int ID;
 }
